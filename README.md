@@ -1,4 +1,4 @@
-# Antitrust_Outline.github.io
+# Antitrust_Outline
 This project is regarding the Antitrust outline made as of 2017, LL.M. antitrust class
 Please use them only after request my email permission.
 [Antitrust](https://github.com/Hanchor/Outline/blob/master/Anti-Trust.md)
